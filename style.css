@@ -1,0 +1,71 @@
+body {
+    background-color: brown
+
+}
+header{
+  display: flex;
+  margin-left: 50px;
+  margin-top: 30px; 
+  gap: 500px;
+  align-content: center;
+  
+
+}
+h1{
+    font-size: xx-large;
+}
+
+.navigation li {
+    padding: 80px;
+    display: inline;
+    color: white;
+    cursor: pointer;
+}
+.content{
+    display: flex;
+    gap: 150px;
+    margin-top: 10px;
+}
+.column1{
+    font-size: larger;
+    margin-left: 20px;
+}
+.column1 p{
+    margin-left: 20px;
+}
+.members{
+    display: flex;
+    text-align: center;
+
+}
+h3{
+   margin-left: 100px; 
+   font-size: xx-large;
+}
+.signupform{
+    font-size: x-large;
+    margin-bottom: 200px;
+    width: 150px;
+    height: 50px;
+}
+h4 {
+    text-decoration-line: underline;
+}
+
+footer{
+    background-color: white;
+    border-radius: 10px;
+}
+.bio{
+    display: flex;
+    text-align: center;
+    margin-right: 200px;
+    justify-content: center;
+
+}
+.socialicons{
+    text-align: center;
+    gap: 10px;
+    
+
+}
